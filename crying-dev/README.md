@@ -14,7 +14,6 @@ Welcome to Crying.dev, your safe space for developer tears. This project provide
 
 Ensure you have a recent version of [node & npm](https://nodejs.org/en/download/) or [yarn](https://yarnpkg.com/en/docs/install) installed. Because nothing's worse than outdated tools.
 
-Install all the necessary packages:
 
 
 
